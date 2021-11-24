@@ -20,6 +20,7 @@ namespace DictionaryGradebook
                 newStudent = input;
 
                 if (!Equals(newStudent, ""))
+
                 {
                     Console.WriteLine("Grade: ");
                     input = Console.ReadLine();
